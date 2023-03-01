@@ -6,11 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <h1>
           SickFly
-        </p>
+        </h1>
         <p>
-          App teste (coming soon....)
+          <i>
+            (coming soon....)
+          </i>
         </p>
       </header>
     </div>
