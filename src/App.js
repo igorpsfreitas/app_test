@@ -5,16 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>
-          SickFly
-        </h1>
-        <iframe src="https://v6p9d9t4.ssl.hwcdn.net/html/1220073/index.html"></iframe>
-        <p>
-          <i>
-            (coming soon....)
-          </i>
-        </p>
+        <iframe width="970" height="560" src="https://v6p9d9t4.ssl.hwcdn.net/html/1220073/index.html" frameborder="0"></iframe>
+        
       </header>
     </div>
   );
